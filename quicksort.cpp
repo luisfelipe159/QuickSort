@@ -10,7 +10,7 @@ que o pivô estarão à sua direita. O pivô estará então em sua posição cor
 
 Chamada recursiva: aplique recursivamente o mesmo processo aos dois subarrays particionados (esquerda e direita do pivô).
 
-Caso base: a recursão para quando há apenas um elemento restante na submatriz, pois um único elemento já está classificado.
+Caso base: a recursão paara quando há apenas um elemento restante na submatriz, pois um único elemento já está classificado.
 */
 
 
